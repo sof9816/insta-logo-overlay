@@ -11,8 +11,7 @@ This script allows you to download images from Instagram posts and overlay a log
 
 1. Clone the repository or download the script file.
 2. Install the required packages by running the following command:
-
-<code>pip install requests Pillow<code>
+<code>pip install requests Pillow</code>
 
 ## Usage
 
@@ -23,8 +22,7 @@ This script allows you to download images from Instagram posts and overlay a log
 - `output_path`: The desired file path to save the modified image.
 
 2. Run the script:
-
-<code>python script.py<code>
+<code>python script.py</code>
 
 3. The modified image will be saved to the specified `output_path`. You can check the console for any error messages or the success message.
 
